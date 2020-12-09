@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\070.CryptoChecker\UnitFormMain.cpp=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormCounters.h=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormSlider.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\100.CryptorPhi1.Beta\CryptorPhi1.cbproj=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\100.CryptorPhi1.Beta\CryptoChecker.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormCounters.cpp=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormSlider.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormCounters.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormCounters.dfm=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\071.CryptoChecker\UnitFormSlider.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\070.CryptoChecker\UnitCryptor.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\070.CryptoChecker\CryptoChecker_PCH1.h=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\070.CryptoChecker\CryptoChecker.cbproj=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\100.CryptorPhi1.Beta\CryptorPhi1_PCH1.h=C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\100.CryptorPhi1.Beta\CryptoChecker_PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\070.CryptoChecker\UnitFormMain.dfm=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\DIPLOM.PRJ\FN183706.TM.PDP\SRC\0.Cryptography\070.CryptoChecker\UnitFormMain.h=C:\Users\Milen\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020.11.30 17:00:01.156,C:\Users\Milen\Documents\GitHub\100.CryptorPhi1.Beta\CryptorPhi1_PCH1.h=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="OptionSet1.optset"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.cpp"/>
+    <File Path="UnitFormMain.dfm"/>
+    <File Path="UnitFormMain.h"/>
+    <File Path="UnitFormSlider.cpp"/>
+    <File Path="UnitFormSlider.cpp"/>
+    <File Path="UnitFormSlider.dfm"/>
+    <File Path="UnitFormSlider.h"/>
+    <File Path="UnitCryptor.cpp"/>
+    <File Path="UnitCryptor.cpp"/>
+    <File Path="UnitCryptor.h"/>
+    <File Path="CryptorPhi1.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
