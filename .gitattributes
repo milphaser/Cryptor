@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
-DOC -linguist-vendored
-SAMPLES -linguist-vendored
+*DOC -linguist-vendored
+*SAMPLES -linguist-vendored
+100.CryptorPhi1.Beta- linguist-vendored
